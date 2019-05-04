@@ -1,5 +1,5 @@
 # AzureServiceBus-Session
-Source Code related to Azure Messaging Services Session 
+Source Code related to [ Azure Messaging Services ] sessions
 
 Azure Messaging Services - Part 1
 https://youtu.be/Knx-oxKrChs
