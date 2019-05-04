@@ -1,0 +1,1 @@
+﻿https://stackoverflow.com/questions/45873327/microsoft-servicebus-messaging-vs-microsoft-azure-servicebus
